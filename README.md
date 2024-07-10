@@ -23,6 +23,7 @@
 ###
 
 <p align="left">I'm Akshaya an enthusiastic developer from India<br><br>- 🔭 I’m working on my Web Development Skills .Building exciting projects to help my learning is something I look forward to<br>- 📚 I'm currently learning Python for Data Science<br>- ⚡ In my free time I like to read Books<br>- Reach me throught LinkedIn https://www.linkedin.com/in/akshaya-b-a2a439253/</p>
+<p>If you need help running the code to get an output similar to what I have achieved, send me an email at akshaya.balasubramani6@gmail.com.</p>
 
 ###
 
@@ -74,4 +75,4 @@
 
 ###
 
-<p>If you need help running the code to get an output similar to what I have achieved, send me an email at akshaya.balasubramani6@gmail.com.</p>
+
