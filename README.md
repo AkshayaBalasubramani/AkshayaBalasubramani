@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -73,3 +73,5 @@
 ###
 
 ###
+
+<p>If you need help running the code to get an output similar to what I have achieved, send me an email at akshaya.balasubramani6@gmail.com.</p>
