@@ -22,8 +22,8 @@
 
 ###
 
-<p align="left">I'm Akshaya an enthusiastic developer from India<br><br>- 🔭 I'm currently working on Generative AI. I’m passionate about building innovative web applications and exploring the latest in AI and machine learning..Building exciting projects to help my learning is something I look forward to<br>- 📚 I'm currently exploring the various use cases of generative AI to make our daily life easier<br>- ⚡ In my free time I like to read Books<br>- Reach me throught LinkedIn https://www.linkedin.com/in/akshaya-b-a2a439253/</p>
-<p>If you need help running the code to get an output similar to what I have achieved, send me an email at akshaya.balasubramani6@gmail.com.</p>
+<p align="left">I'm Akshaya an enthusiastic developer from India<br><br>- 🔭 I'm currently working on Generative AI. I’m passionate about building innovative web applications and exploring the latest in AI and machine learning.Building exciting projects to help my learning is something I look forward to<br>- 📚 I'm currently exploring the various use cases of generative AI <br>- ⚡ In my free time I read Books<br>- Reach me throught LinkedIn https://www.linkedin.com/in/akshaya-b-a2a439253/</p>
+<p>If you need help running code, achieving similar results, or collaborating on projects, feel free to reach out to me via email,akshaya.balasubramani6@gmail.com.</p>
 
 ###
 
